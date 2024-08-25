@@ -1,4 +1,4 @@
 # sapiens
-This is my first git repo.
+A Brief History of Humankind.
 <br>
-Author - Sachin Kumar
+Author - Yuval Noah Harari
